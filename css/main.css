@@ -1,0 +1,9 @@
+@font-face {
+  font-family: Monotype Corsiva;
+  src: url("/fonts/monotypecorsiva.ttf");
+}
+
+.container {
+    margin: 0 auto;
+    width: 1487px;
+}
